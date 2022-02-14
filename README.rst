@@ -3,6 +3,11 @@ pgbackup
 
 CLI for backup remote PostgreSQL database either locally or to S3
 
+Project created following A Cloud Guru Python 3 for system administrators course lessons.
+
+Course instructor and original code author: Keith Thompson
+
+
 Preparing the development
 -------------------------
 
